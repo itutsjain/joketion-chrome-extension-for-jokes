@@ -1,0 +1,15 @@
+body {
+    background-color: #483434;
+    justify-content: center;
+    width: 250px;
+    height:250px;
+}
+
+p {
+    display: inline-block;
+    margin: 10px;
+    font-size: 22px;
+    color:#6B4F4F;
+    background: #FFF3E4;
+    padding: 10px;
+}
